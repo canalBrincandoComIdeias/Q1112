@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Sensor de Corrente SCT013
+*Date=12:05:55
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;6.59474;-17.1417;90;Bottom;S  -  +
+2;;THT;11.6747;-6.98166;90;Bottom;cR1  cR2
+3;22;THT;5.00724;-6.98166;0;Bottom;R1
+4;10k;THT;12.6272;-14.6017;0;Bottom;R3
+5;10k;THT;13.2622;-12.0617;180;Bottom;R4
+6;;;13.7901;-18.1839;0;Bottom;IMG1
+7;;THT;5.32474;-1.90166;-90;Bottom;Sensor
+8;33;THT;9.13474;-4.44166;0;Bottom;R2
+9;1µF;100 mil [THT, electrolytic];4.05474;-13.3317;90;Bottom;C1
